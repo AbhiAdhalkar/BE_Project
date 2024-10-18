@@ -10,9 +10,7 @@ This project is an Arduino-based application designed to monitor and maintain th
 - [Features](#features)
 - [System Requirements](#system-requirements)
 - [Installation Guide](#installation-guide)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Related Work](#related-work)
 
 ## Project Overview
 Public hygiene is crucial, especially in public restrooms where cleanliness is often compromised due to poor maintenance. This system is designed to monitor public toilet conditions using sensors connected to an Arduino board, and send data to a web application developed using Java and JSP.
@@ -53,3 +51,8 @@ To run this project, you will need the following software installed on your syst
    Clone the project repository to your local machine using:
    ```bash
    git clone https://github.com/yourusername/smart-public-restroom.git
+
+## Related Work
+For a more detailed explanation and academic discussion of this project, please refer to the published paper:  
+**[E-Toilet: A Smart Public Restroom Monitoring System](https://ijarcce.com/papers/e-toilet/)** published in the International Journal of Advanced Research in Computer and Communication Engineering (IJARCCE).
+
